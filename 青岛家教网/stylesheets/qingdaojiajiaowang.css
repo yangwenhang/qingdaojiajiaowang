@@ -1,0 +1,47 @@
+body {
+    background-color: cadetblue;
+    font-family: 宋体;
+    font-size: 100%;
+}
+
+.container {
+    background-color: white;
+    width: 700px;
+    height: 2200px;
+    margin: 10px auto;
+}
+
+header {
+    height: 130px;
+}
+
+.collect {
+    width: 150px;
+    margin: 100px 5px 800px 0;
+    float: right;
+
+}
+.collect1{text-decoration: none;
+
+}
+.content{
+    height: 1950px;
+
+}
+
+table{
+    width: 600px;
+    position: absolute;
+    margin: 0 0 0 50px;
+    border-collapse: collapse;
+}
+caption{height: 40px;
+}
+.red{
+    color: red;
+}
+.foot{
+   width: 700px;
+    margin: 15px auto;
+    text-align: center;
+}
